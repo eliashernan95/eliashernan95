@@ -12,7 +12,7 @@ def presentarme():
     nombre = "Elias Otero"
     edad = "30 años"
     de_donde = "Argentina 🇦🇷"
-    pasiones = ["Código", "Mates", "Doblaje", "Aprender algo nuevo cada día"]
+    pasiones = ["Código", "Fútbol", "Aprender algo nuevo cada día"]
     return f"{nombre} · {edad} · {de_donde}"
 ```
 
